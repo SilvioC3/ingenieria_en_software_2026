@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'Super Caramel';
+    src: url('SuperCaramel.ttf') format('truetype');
+}
+
+body{
+    background: mintcream !important;
+    font-family: 'Super Caramel', sans-serif;
+
+}
+
+img {
+    width: 50vw;
+    height: auto;
+    border-radius: 50px;
+
+}
