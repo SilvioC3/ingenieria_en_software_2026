@@ -4,15 +4,49 @@
     src: url('SuperCaramel.ttf') format('truetype');
 }
 
+
+
 body{
-    background: mintcream !important;
+    min-height: 100vh;  
+    width: 100vw;
+    background: mintcream ;
     font-family: 'Super Caramel', sans-serif;
 
 }
 
+main{
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+h1, h2, p{
+    text-align: center; /* Centers the actual text inside its invisible text boundary */
+    width: 50vw;
+	
+}
+
+ul{
+	width: 50vw;
+	background-color: white;
+}
+
+
 img {
+    display: block;
     width: 50vw;
     height: auto;
     border-radius: 50px;
+   
+
+}
+
+#aiboo-image{
+	background-color: white;
+	border-radius: 100;
+	width: 25vw;
+  height: auto;
 
 }
