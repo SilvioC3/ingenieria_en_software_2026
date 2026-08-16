@@ -1,0 +1,10 @@
+Link para repositorio de tarea 1 
+
+Silvio Castillo c38910
+agosto 2026
+
+https://github.com/SilvioC3/ingenieria_en_software_2026/tree/ec8ae3d0bbc0660e7e85a7856d40ea4792005be2/TAREA1
+
+Esta tarea consiste en una sitio web implementado en HTML y CSS. Cuenta con un archivo styles.css MintFantome.Html y directorio de imagenes. 
+
+Para usar abrir el archivo HTML con un cualquier navegador de web. 
